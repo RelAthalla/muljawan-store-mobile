@@ -1,3 +1,11 @@
+# Muljawan Store
+
+    Farrel Athalla Muljawan
+    2306223925
+    PBP E
+
+# Tugas 7
+
 1. Jelaskan apa yang dimaksud dengan stateless widget dan stateful widget, dan jelaskan perbedaan dari keduanya.
 
     StatelessWidget adalah widget yang tidak memiliki state yang dapat berubah. Artinya, setelah widget ini dibuat, ia tidak akan berubah selama siklus hidupnya. StatelessWidget cocok digunakan untuk tampilan yang statis atau tidak memerlukan perubahan data.
@@ -232,3 +240,7 @@
         } 
     }
     ```
+
+# Tugas 8
+
+1. 
